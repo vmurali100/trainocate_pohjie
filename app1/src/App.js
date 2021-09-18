@@ -9,6 +9,8 @@ function App() {
         Welcome to ReactJS Training Sessions
       </h2>
       <Murali/>
+      <h2>Adding Heading Now </h2>
+      
     </div>
   );
 }
